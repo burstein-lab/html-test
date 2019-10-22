@@ -1,20 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
 
-.map-responsive{
-    overflow:hidden;
-    padding-bottom:56.25%;
-    position:relative;
-    height:0;
-}
-.map-responsive iframe{
-    left:0;
-    top:0;
-    height:50%;
-    width:100%;
-    position:absolute;
-}
-
 /*
 	Landed by HTML5 UP
 	html5up.net | @ajlkn
@@ -3600,10 +3586,10 @@ input, select, textarea {
 	}
 
 /* Footer */
-
+/* DB: padding was 6em */
 	#footer {
 		background: #272833;
-		padding: 6em 0;
+		padding: 1em 0;
 		text-align: center;
 	}
 
@@ -4184,3 +4170,17 @@ input, select, textarea {
 					}
 
 	}
+
+  .map-responsive{
+      overflow:hidden;
+      padding-bottom:56.25%;
+      position:relative;
+      height:0;
+  }
+  .map-responsive iframe{
+      left:0;
+      top:0;
+      height:50%;
+      width:100%;
+      position:absolute;
+  }
