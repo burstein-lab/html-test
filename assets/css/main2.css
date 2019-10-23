@@ -3681,7 +3681,7 @@ input, select, textarea {
 
 			.spotlight.left2 .content, .spotlight.right2 .content {
 				padding: 4.5em 2.5em;
-				width: 25em;
+				width: 50em;
 			}
 
 		/* Wrapper */
@@ -4181,6 +4181,20 @@ input, select, textarea {
       left:0;
       top:0;
       height:50%;
+      width:100%;
+      position:absolute;
+  }
+
+  .map-responsive2{
+      overflow:hidden;
+      padding-bottom:56.25%;
+      position:relative;
+      height:0;
+  }
+  .map-responsive2 iframe{
+      left:0;
+      top:0;
+      height:85%;
       width:100%;
       position:absolute;
   }
