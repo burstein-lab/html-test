@@ -110,13 +110,14 @@ input, select, textarea {
 		-webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
+		border-bottom: solid 1px;
 		color: #e44c65;
 		text-decoration: none;
+		font-weight: 400;
 	}
 
 		a:hover {
-			color: #e44c65 !important;
+			color: #ff5c77 !important;
 			border-bottom-color: transparent;
 		}
 
@@ -3546,7 +3547,7 @@ input, select, textarea {
 			max-width: 95%;
 			padding: 6em;
 			position: relative;
-			text-align: right;
+			text-align: center;
 			vertical-align: middle;
 			z-index: 1;
 		}
