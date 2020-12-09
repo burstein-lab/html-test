@@ -1,0 +1,310 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Burstein Lab: Metagenomics, Machine-learning, Molecular microbiology and Fun!</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="description" content="David Burstein's lab webpage">
+  	<meta name="keywords" content="CRISPR,Cas,CRISPR-Cas,Antibiotics,Antibiotic-resistance,Metagenomics,Machine-learning,Microbiology,Deep-learning,Antimicrobial-resistance">
+  	<meta name="author" content="David Burstein, Dudu Burstein,דודו בורשטיין,דוד בורשטיין">
+		<link rel="stylesheet" href="assets/css/main2.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload landing">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+
+					<h1 id="logo"><a href="https://www.tau.ac.il/~davidbur/">The Burstein Lab</a></h1>
+
+					<nav id="nav">
+						<ul>
+							<li><a href="#_research_" class="scrolly">Our Research</a></li>
+							<li><a href="#_pub_" class="scrolly">Publication Highlights</a></li>
+							<li><a href="#_team_" class="scrolly">Our Team</a></li>
+							<li><a href="#_contact_" class="scrolly">Contact</a></li>
+  						</ul>
+					</nav>
+				</header>
+
+			<!-- Banner -->
+				<section id="banner">
+					<div class="content">
+						<header>
+							<h2>It's a microbial world out there</h2>
+							<p>...and we love it!
+
+								<br>
+							Scroll down to read how we combine <br>
+							bioinformatics and experimental approaches<br>
+						  to study antibiotic resistance, CRISPR-Cas<br>
+							and other fascinating microbial systems.</p>
+						</header>
+						<span class="image"><img src="images/Earth-Space-Europe-Africa.1220px.trim.jpg" alt="" /></span>
+					</div>
+					<a href="#_research_" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- _research_ -->
+				<section id="_research_" class="spotlight style1 bottom">
+					<span class="image fit main"><img src="images/F1.large.jpg" alt="" /></span>
+					<div class="content">
+						<div class="container">
+							<div class="row">
+								<div class="col-4 col-12-medium">
+									<header>
+										<h2>Our Research</h2>
+										<p>
+											Metagenomics, Machine learning, Molecular microbiology, and Fun!
+										</p>
+									</header>
+								</div>
+								<div class="col-4 col-12-medium">
+									<p>We aim to better understand key interaction mechanisms within
+										microbial communities and to promote their application in
+										biotechnology and medicine. Specifically, we are interested
+										in discovering novel antibiotic resistance genes, CRISPR-Cas,
+										and bacterial secretion systems.
+								</p>
+								</div>
+								<div class="col-4 col-12-medium">
+									<p>
+										We study microorganisms in a variety of natural environments,
+										and combine cutting-edge metagenomic techniques with tailored
+										machine-learning and molecular biology methods to predict and
+										experimentally validate the functions of the studied systems.
+								</div>
+							</div>
+						</div>
+					</div>
+					<a href="#_pub_" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- _pub_ -->
+				<section id="_pub_" class="spotlight style2 left2">
+					<span class="image fit main"><img src="images/scrolls.jpg" alt="" /></span>
+					<div class="content">
+						<div class="container">
+							<header class="major">
+								<h2>Publications Highlights</h2>
+							</header>
+							<div class="box alt">
+								<div class="row gtr-uniform">
+									<section class="col-4 col-6-medium col-12-xsmall">
+										<p>
+											Programmed DNA destruction by miniature CRISPR-Cas14 enzymes
+											<br><a href="https://doi.org/10.1126/science.aav4294">Science 2018</a>
+										</p>
+									</section>
+									<section class="col-4 col-6-medium col-12-xsmall">
+										<p>
+											New CRISPR–Cas systems from uncultivated microbes
+											<br><a href="https://doi.org/10.1038/nature21059">Nature 2017</a>
+										</p>
+									</section>
+									<section class="col-4 col-6-medium col-12-xsmall">
+										<p>
+											Major bacterial lineages are essentially devoid of CRISPR-Cas viral defence systems
+											<br><a href="https://doi.org/10.1038/ncomms10613">Nature Coomunications 2016</a>
+										</p>
+									</section>
+									<section class="col-4 col-6-medium col-12-xsmall">
+										<p>
+											Genomic analysis of 38 Legionella species identifies large and diverse effector repertoires
+											<br><a href="https://doi.org/10.1038/ng.3481">Nature Genetics 2016</a>
+										</p>
+									</section>
+									<section class="col-4 col-6-medium col-12-xsmall">
+										<p>
+											Computational modeling and experimental validation of the Legionella and Coxiella virulence-related type-IVB secretion signal
+											<br><a href="https://doi.org/10.1073/pnas.1215278110">PNAS 2013</a>
+										</p>
+									</section>
+									<section class="col-4 col-6-medium col-12-xsmall">
+										<p>
+											Genomic analysis of 38 Legionella species identifies large and diverse effector repertoires
+											<br><a href="https://doi.org/10.1371/journal.ppat.1000508">PLoS Pathogens 2009</a>
+										</p>
+									</section>
+								</div>
+								<footer class="major">
+									<ul class="actions special">
+										<li>Full publication list in  <a href="https://scholar.google.com/citations?user=SfeKvjEAAAAJ&hl=en">Google Scholar</a></li>
+									</ul>
+								</footer>
+							</div>
+						</div>
+
+						</div>
+					<a href="#_team_" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- _team_ -->
+				<section id="_team_" class="wrapper style1 special fade-up">
+					<div class="container">
+						<header class="major">
+							<h2>Our Team</h2>
+						</header>
+						<div class="box alt">
+							<div class="row gtr-uniform">
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="rimage"><img src="images/dudu_round2.jpg" alt="" /></span>
+									<h3><a href="mailto:davidbur@tauex.tau.ac.il">Dr. David (Dudu) Burstein</a></h3>
+									<p>
+										Principal Investigator
+									</p>
+								</section>
+
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="rimage"><img src="images/karin.round2.jpg" alt="" /></span>
+									<h3><a href="mailto:karinmit@tauex.tau.ac.il">Dr. Karin Mittelman</a></h3>
+									<p>
+										Research Associate
+									</p>
+								</section>
+
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="rimage"><img src="images/Bruria.round2.jpg" alt="" /></span>
+									<h3><a href="mailto:bruriahronec@mail.tau.ac.il">Bruria Samoel</a></h3>
+									<p>
+										Ph.D. Student
+									</p>
+								</section>
+
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="rimage"><img src="images/Danielle_Miller.jpg" alt="" /></span>
+									<h3><a href="mailto:danimillers10@gmail.com">Danielle Miller</a></h3>
+									<p>
+										Ph.D. Student<br>
+										(joint with Dr. Adi Stern)
+									</p>
+								</section>
+
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="rimage"><img src="images/sagi_round.jpg" alt="" /></span>
+									<h3><a href="mailto:sagishaashua@gmail.com">Sagi Shaashua</a></h3>
+									<p>
+										M.Sc. Student
+									</p>
+								</section>
+
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="rimage"><img src="images/Dov_round2.jpg" alt="" /></span>
+									<h3><a href="mailto:dovgertz1@gmail.com">Dov Gertz</a></h3>
+									<p>
+										M.Sc. Student
+									</p>
+								</section>
+
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="rimage"><img src="images/noa2.round.jpg" alt="" /></span>
+									<h3><a href="mailto:noabenezer@mail.tau.ac.il">Noa Ben Ezer</a></h3>
+									<p>
+										Undergraduate Student
+									</p>
+								</section>
+
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="rimage"><img src="images/Dror_round.jpg" alt="" /></span>
+									<h3><a href="mailto:drorhadas@mail.tau.ac.il">Dror Hadas</a></h3>
+									<p>
+										Undergraduate Student
+									</p>
+								</section>
+
+							</div>
+						</div>
+					</div>
+					<a href="#_pub_" class="goto-next scrolly">Next</a>
+				</section>
+
+
+			<!-- Contact -->
+				<section id="_contact_" class="spotlight style2 right2">
+					<span class="image fit main"><img src="images/TAU_lawn.jpg" alt="" /></span>
+					<div class="content">
+						<header class="major">
+							<h2>Stay in Touch</h2>
+						</header>
+						<!-- Main -->
+									<div class="row gtr-50">
+										<div class="col-8 col-12-medium">
+
+											<!-- Sidebar -->
+												<section id="sidebar">
+													<section>
+														David Burstein's Lab
+														<BR>
+														School of Molecular Cell Biology and Biotechnology.
+														<BR>
+														George S. Wise Faculty of Life Sciences
+														<BR>
+														Green building, room 239
+														<BR>
+														Tel Aviv University
+														<BR>
+														Ramat Aviv, Tel Aviv 69978, Israel
+														<BR>
+														<BR>
+
+													</section>
+												</section>
+
+										</div>
+										<div class="col-4 col-12-medium imp-medium">
+											<section id="content">
+														<BR>
+														Office: +972-3-640-8715
+														<BR>
+														Lab:    +972-3-640-7525
+														<BR>
+														Fax:    +972-3-642-2046
+														<BR>
+														<BR>
+														<a href="mailto:davidbur@tauex.tau.ac.il" target="_top">davidbur@tauex.tau.ac.il</a>
+														<BR>
+														<BR>
+											</section>
+										</div>
+									</div>
+
+									<section>
+										<div class="map-responsive2">
+											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3379.3175046825054!2d34.804506315617054!3d32.114726581177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d496fdada608b%3A0x4112575531a950f9!2sJack%20Green%20Building%2C%20Tel%20Aviv-Yafo!5e0!3m2!1sen!2sil!4v1571691471551!5m2!1sen!2sil" width=600 height=450 frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+										</div>
+									</section>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+<!--
+					<ul class="icons">
+						<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+						<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+						<li><a href="mailto:davidbur@tauex.tau.ac.il" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+-->
+					<ul class="copyright">
+						<li>&copy; Burstein lab. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

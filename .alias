@@ -1,0 +1,73 @@
+# head/tail
+alias h='head -n3'
+alias hh='head'
+alias hhh='head -n30'
+alias t='tail -n3'
+alias tt='tail'
+alias ttt='tail -n30'
+alias tn='tail -n +2'
+
+# ls variants
+alias ll='ls -l'
+alias lrt='ls -lrth'
+alias la='ls -la'
+
+# shortcuts
+alias -- -='/dev/stdin'
+
+# change default behavior of programs
+alias rm='rm -i'
+alias gunzip='gunzip -N'
+alias tmux='TERM=xterm-256color tmux'
+alias time='/usr/bin/time'
+# scripts I use often
+alias pc='tabPrintCol.sh'
+alias sc='sortCount.sh'
+alias pi='fastaPrintIds.pl -'
+alias sm='substituteMany.pl'
+alias st='substituteTabField.pl'
+alias gm='grepMany.pl'
+alias gt='tabgrepField.pl'
+alias cn='headerColumnNumbers.sh'
+alias rt='rowTable'
+
+# User specific (change davidbur to your user)
+alias td='top -u davidbur'
+alias q='qstat -u davidbur'
+
+# useful flags and parameters often used with Linux commands/programs
+alias e='emacs -nw \*shell\*'
+alias m='tmux attach -t main || tmux new -s main'
+alias gp='git pull'
+alias wl='wc -l'
+alias s="sort -t$'\t' --stable --ignore-case --buffer-size=2G"
+alias l='less -S'
+alias g='grep -a -F'
+alias ch='chmod -R 755 *'
+alias gr='grep -i -P'
+alias xI='xargs -I {}'
+alias ps='ps --forest -u davidbur -F'
+alias ct="column -t -s$'\t'"
+alias hm="numfmt --to=iec-i --suffix=B --padding=7"
+alias dif='diff -w -y --suppress-common-lines'
+
+alias cdhit='cd-hit -T 6 -M 0 -g 1 -s 0.8 -c 0.9 -d 1000'
+alias cd100='cd-hit -T 6 -M 0 -g 1 -c 1 -d 1000'
+alias minc="minced -spacers -minRL 15 -maxRL 60 -minSL 15 -maxSL 60"
+
+# Queue
+alias qgr='qstat | gr'
+
+# one-liners
+alias unix2mac="perl -e -pi 's/\n/\r/g' "
+alias mac2unix="perl -e -pi 's/\r/\n/g' "
+alias g2s="perl -pe 's/(.*)_.*/\$1/'"
+
+# perl flags
+alias pe='perl -pe'
+alias ne='perl -ne'
+alias lne='perl -lne'
+alias pie='perl -i.bak -pe'
+alias pa='perl -lane'
+alias pac='perl -F, -lane'
+alias pat='perl -F"\t" -lane'

@@ -1,0 +1,331 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN">
+<html style="direction: ltr;" lang="en"><head> <meta http-equiv="content-type" content="text/html; CHARSET=windows-1255">
+
+
+	<title>Liko's homepage</title><meta name="author" content="Liko David Dudu Burstein דוד דודו בורשטיין ליקו">
+
+	<style title="DBsStylesheet" type="text/css">
+	  p { margin: 1pt 0pt 2pt 1em;
+		}
+
+	  a:link { text-decoration: none;
+		color: rgb(0, 0, 153);
+		}
+
+	  a:visited { text-decoration: none;
+		color: rgb(0, 0, 153);
+		}
+
+	  a:hover { text-decoration: none;
+    color: rgb(51, 51, 255);
+    }
+
+	  .DBsBox { border: 1px inset rgb(51, 0, 0);
+		margin: 1%;
+		padding: 0.5%;
+		background-color: rgb(255, 255, 255);
+		text-align: left;
+		vertical-align: top;
+		}
+
+	  .DBsTable { vertical-align: top;
+		}
+
+	  .DBsOutlineTable { margin: 1px;
+		width: 100%;
+		}
+
+	  .DBquotation { font-family: georgia,'palatino linotype','book antiqua',palatino,'times new roman',times,serif;
+		}
+
+	  .DBsText { color: rgb(128, 0, 0);
+		font-family: Comic Sans MS;
+		line-height: 1.5em;
+		}
+
+	  .DBsPicture { border: 1px outset rgb(51, 0, 0);
+		margin-top: 4px;
+		}
+
+	  .DBsHeading { margin: 0.5em 0pt 0.4em 5px;
+		font-family: Comic Sans MS;
+		font-weight: lighter;
+		font-size: xx-large;
+		}
+
+</style></head>
+<body style="background-image: url(LikoPics/catBG.gif);" class="DBsText">
+	<p class="DBsHeading">
+	Liko's Homepage
+	</p>
+	<table class="DBsOutlineTable" cellspacing="2">
+	<tbody class="DBsTable">
+		<tr>
+
+			<td>
+		    <p>
+				Grrrrrrrrrru, Welcome to my homepage.<br><br>
+				</p>
+				<table><tbody class="DBsTable">
+					<tr>
+						<td style="width: 6.7em;">
+				    	<p><b>Full Name:</b></p>
+						</td>
+						<td>
+				    	<p>Catuliko Joshua Burstein.</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+				    	<p><b>Birth Date:</b></p>
+						</td>
+						<td>
+				    	<p> Approx. May 2005 (you get it, I don't even have a real birthday...).</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+					    <p> <b>Weight:</b>  </p>
+						</td>
+						<td>
+					    <p> (Not that it matters) About 6 kg (13 lbs or so). </p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+					    <p>	<b>Hobbies:</b></p>
+						</td>
+						<td>
+					    <p> Eating, playing, napping, eating, looking out the window, playing and eating.</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+					    <p><b>Living with:</b></p>
+						</td>
+						<td>
+					    <p><a href="http://www.tau.ac.il/~davidbur">David Burstein</a>, he's quite OK for a human (except when giving too much attention to things other then me).
+						<a href="LikoPics/prettyDudu.jpg">Here's a good picture of him</a>.
+					    </p>
+						</td>
+					</tr>
+			</tbody>
+		</table>
+			</td>
+			<td>
+				<img class="DBsPicture" alt="Liko" title="Rurururururu" src="LikoPics/LikosCloseup.jpg">
+			</td>
+		</tr>
+	</tbody></table>
+
+	<table class="DBsOutlineTable" cellspacing="2">
+	<tbody class="DBsTable">
+		<tr><td>
+			<table><tbody class="DBsTable">
+				<tr><td style="width: 6.7em;">
+				    <p><b>Contact:</b></p>
+				</td><td>
+				    <p><a href="mailto:catuliko@gmail.com?subject=Dear Liko, ">catuliko@gmail.com</a>, I have to warn you it's not 100% private as	  my roommate reads me my emails, since I am having trouble managing the computer.<BR>
+				    (I don't get it - I keep throwing the mouse over the edge of the desk, leaving it hanging in the air, then I stamp on the keyboard randomly, and still it won't work, I think the machine is broken. Maybe I'll ask
+				    <a href="http://www.acc.umu.se/~zqad/cats/1161476975-2nst8cz.jpg"> a friend </a> to fix it.)
+				</td></tr>
+				<tr><td>
+				    <p><b>Health:</b></p>
+				</td><td>
+				    <p>I'm a healthy and presumably happy cat, my fur is shiny and extremely soft (silky, one might say).
+				    I only have few mild physical conditions: I'm about 85% blind (which is 15% sighted), my right ear doesn't really function (not for hearing at least),
+				    which made me think at the beginning that all the voices came from my left side, and that was kindda confusing...<br>
+				    Oh yeah, I'm also a (latent) carrier of Feline herpes virus type I
+				    (aka <a href="http://en.wikipedia.org/wiki/Feline_herpes_virus">Feline viral rhinotracheitis</a>),
+				    this is probably what made me mostly blind when I was a kitten, but today it basically
+				    means I have a running nose most of the time.<br>
+				    Apart for these, I'm (usually) 100% fine.</p>
+				</td></tr>
+				<tr><td>
+				    <p><b>My vet:</b></p>
+				</td><td>
+				    <p> <a href="http://www.ofervet.co.il/aboutus1.html"> Dr. Ofer Shavit </a>is my devoted and highly recommended vet, that treats me with love and devotion, even
+					 if I try to kill him (he did robe me of my manhood...).
+					 His clinic has a <a href="http://www.ofervet.co.il/">cool website</a>.<br><br>
+				</td></tr>
+
+				</tbody></table>
+
+			</td>
+		</tr>
+	</tbody>
+	</table>
+	<table class="DBsOutlineTable" cellspacing="2" >
+		<tbody class="DBsTable">
+		<tr>
+			<td style="width: 33%;">
+				<img class="DBsPicture" alt="Liko Sleeping" title="ZZZZzzzzz" src="LikoPics/LikoSleeping.JPG">
+
+			</td>
+			<td style="width: 33%;">
+				<img class="DBsPicture" alt="Just heavy boned"  title="" src="LikoPics/SHUMAN.JPG">
+			</td>
+			<td style="width: 33%;">
+
+			</td>
+		</tr>
+		</tbody>
+	</table>
+	<table class="DBsOutlineTable" cellspacing="2" >
+		<tbody class="DBsTable">
+		<tr>
+			<td style="width: 33%;">
+				<img class="DBsPicture" alt="Liko being cute on puff" title="" src="LikoPics/LikoCuteOnPuff.JPG">
+			</td>
+			<td style="width: 33%;">
+				<img class="DBsPicture" alt="Liko playing" title="" src="LikoPics/LikoPlaying.JPG">
+
+
+			</td>
+			<td style="width: 33%;">
+			</td>
+		</tr>
+		</tbody>
+	</table>
+
+	<table class="DBsOutlineTable" cellspacing="2">
+		<tbody class="DBsTable">
+			<tr>
+				<td style="width: 33%;">
+					<p>
+					<b> <big> Beginner's Short Dictionary </Big> </b>
+					<dl>
+					<dt> <strong> Grrrrrrrrruu </strong> -
+					<dd>"I like you, let's play!"
+					<dt> <strong> Rurururu (purring) </strong> -
+					<dd>"Feel free to feed me."
+					<dt> <strong> Meow! MEOW! MEEEOOOWWWWUUU!!! </strong> -
+					<dd>"Give me some attention! WHY WON'T YOU GIVE ME ATTENTION, FOR THE LOVE OF GOD!!!"
+					<dt> <strong> Mauw... Maauuw... <i>(In a deep low  voice)</i></strong> -
+					<dd>"I don't care I have 3 types of cat food in my plates, and you've just played with me 10 minutes ago, I'm still the loneliest, most miserable cat in the world..."
+					</dl>
+				</p>
+				</td>
+				<td style="width: 33%;">
+					<p>
+						<b> <Big> My favorite LOL Cats </Big> </b>
+						<br>
+						from <a href="http://icanhascheezburger.com/">
+						I Can Has Cheezburger? </a>
+						<br>
+						The most hilarious cat site on the web...
+						<br><small>&nbsp&nbsp&nbsp(Last updates are on the top)&nbsp&nbsp&nbsp</small>
+					</p>
+				<ul>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/09/27/funny-pictures-mai-giva-damm-iz-broke/"> mai giva damm iz broke </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/03/01/funny-pictures-to-your-suffering/">i am indifferent to your suffering</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/02/17/funny-pictures-if-only-u-waz-useful/"> if only u waz useful </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/02/02/funny-pictures-did-i-just-hit-that-dog/"> Did I just hit that dog?</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/02/04/funny-pictures-you-comes-here-often//">you comes here often </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/11/25/funny-pictures-thats-correct-little-human/"> that's correct little human </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/05/16/funny-pictures-stop-winning-u-fit-purrfectly/"> stop winning u fit purrfectly </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/08/06/funny-pictures-ur-ofring-plzs-me/">ur ofring plzs me</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/?s=%2Ffunny-pictures-wet-cat-counts-your-day">wet cat counts your day</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/09/13/funny-pictures-stuff-hoomin-stuff/">stuff? hoomin stuff?</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/07/03/funny-pictures-outside-naked/">outside naked</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/08/05/funny-pictures-dont-presss-dat/">don't presss dat</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/06/29/funny-pictures-tasts-gud-he-sez-dum-dog/"> tasts gud he sez, dum dog!</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/08/06/funny-pictures-noes-cloze-da-airlok1/">noes! cloze da airlok!</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/08/03/funny-pictures-i-not-has-a-pms/">i not has a pms</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/08/06/funny-pictures-what-could-go-wrong-he-says/">what could go  wrong he says</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2007/09/01/what-u-mean-i-has-wurmz/"> what u mean i has wurmz </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2007/09/14/laff-and-u-dies/">laff and u dies</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/09/10/funny-pictures-when-i-woke-up-at-the-vet/"> when i woke up at the vet </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/02/09/funny-pictures-always-disproving-ma-theorem/"> always disproving ma theorem/</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/03/25/funny-pictures-constructive-feedback-ur-doin-it-wrong/"> constructive feedback ur doin it wrong </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/08/09/funny-pictures-duz-not-undrstd-techanogoly/">  duz not undrstd techanogoly </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/12/10/funny-pictures-the-blue-bird-of-happiness/"> the blue bird of happiness </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2007/01/22/i-think-theres-a-spy-among-us/"> i think theres a spy among us </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2007/03/14/get-off-my-lawn-you-damn-kids/">get off my lawn you damn kids </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/03/03/funny-pictures-we-dint-touch-it/"> we dint touch it </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/04/01/funny-pictures-bring-me-a-shrubbery/"> bring me a shrubbery</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/07/21/funny-pictures-on-their-feet/">on their feet </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2007/12/02/sum-born-gud-sum-born-evil/"> sum born gud sum born evil </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/08/26/funny-pictures-wurth-twelvity-five-points/">wurth twelvity five points </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2007/12/10/homework-eating-cat-knows-dog-will-get-blamed/"> homework eating cat knows dog will get blamed </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/06/14/funny-pictures-o-hai-oh-crap/"> o hai oh ncrap </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/09/30/funny-pictures-fluffy-wuznt-lyin-yu-kan-buy/"> fluffy wuznt lyin yu kan buy </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/03/31/funny-pictures-cpr-cat-is-an-idiot/"> cpr cat is an idiot </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/02/15/funny-pictures-washerz-been-makin-dat-barkin-sound-foreverz/"> washerz been makin dat barkin sound foreverz </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/07/26/funny-pictures-someplace-nice-without-you-embarrassing-me/"> someplace nice without you embarrassing me </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/07/08/funny-pictures-in-trouble-lol/"> in trouble lol </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/12/02/funny-pictures-back-from-da-vetz/"> back from da vetz </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/03/31/funny-pictures-owl-makes-u-feel-awkward/"> owl makes u feel awkward </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/10/22/funny-pictures-wut-old-ladee/"> wut old ladee?</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/?s=insists-your-roommate-was-already-dead"> insists your roommate was already dead</a>
+				<li type=circle> <a href="http://ihasahotdog.com/2008/10/07/funny-dog-pictures-your-pregnant/"> your pregnant??!?</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/11/24/funny-pictures-im-thinking-pastels/"> i'm thinking pastels! </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/02/04/funny-pictures-hes-speshul/"> hes speshul </a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/12/21/funny-pictures-will-be-taking-over/">will be taking over</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/12/28/funny-pictures-bird-ai-hadnt-noticed/">bird ai hadnt noticed</a>
+				<li type=circle> <a href="http://icanhascheezburger.com/2008/12/29/funny-pictures-is-lunch-hello-lunch/">is lunch, hello lunch</a>
+
+
+				</ul>
+
+				</td>
+				<td style="width: 33%;">
+					<p>
+					Something serious:<br>
+					<b> <big> Good people in my country</Big> </b>
+					</p>
+				<ul>
+				<li type=circle> <a href="http://www.spayisrael.org.il/"> Spay Israel </a>
+				<li type=circle> <a href="http://www.girgurim.co.il/sos.htm"> Girgurim </a>
+				<li type=circle> <a href="http://www.cats.org.il/"> The Cat Welfare Society of Israel </a>
+				<li type=circle> <a href="http://www.letlive.org.il/"> Let the Animals Live </a>
+				<li type=circle> <a href="http://www.spca.co.il/"> The Israeli SPCA, the Society for the Prevention of Cruelty to Animals </a>
+				<li type=circle> <a href="http://www.homedog.co.il/"> Home dog - adopt a dog </a>
+				<li type=circle> <a href="http://www.isracat.org.il/"> Israel Cat Lovers' Society </a>
+
+				</UL>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table class="DBsOutlineTable" cellspacing="2" >
+		<tbody class="DBsTable">
+		<tr>
+			<td style="width: 33%;">
+				<img class="DBsPicture" alt="Liko in a carton"  title="" src="LikoPics/LikoCarton.jpg">
+			</td>
+			<td style="width: 33%;">
+				<img class="DBsPicture" alt="Liko napping" title="" src="LikoPics/LikoNap2.jpg">
+			</td>
+			<td style="width: 33%;"></td>
+		</tr>
+		</tbody>
+	</table>
+	<table class="DBsOutlineTable" cellspacing="2" >
+		<tbody class="DBsTable">
+		<tr>
+			<td style="width: 33%;">
+				<img class="DBsPicture" alt="Inspired Liko"  title="" src="LikoPics/inspliredLiko.JPG">
+			</td>
+			<td style="width: 33%;">
+				<img class="DBsPicture" alt="Liko napping again" title="What?" src="LikoPics/LikoNap.jpg">
+			</td>
+			<td style="width: 33%;"></td>
+
+		</tr>
+		</tbody>
+	</table>
+	<br>
+	<p>
+	Check it out - some friends of mine in Argentina did good:
+	<a href="http://www.haaretz.co.il/hasite/spages/1048324.html">Hebrew </a> /
+	<a href="http://www.telegraph.co.uk/news/worldnews/southamerica/argentina/3866797/Real-life-Mowgli-kept-alive-by-cats.html"> English </a>
+	</p>
+	<br>
+	<br>
+<a href="http://xyz.freeweblogger.com/stats/1/1168875816/" target="_top"><img border="0" alt="free web counter" src="http://xyz.freeweblogger.com/counter/index.php?u=1168875816&s=yllwgld" ALIGN="middle" HSPACE="4" VSPACE="2"></a><script src=http://xyz.freeweblogger.com/counter/script.php?u=1168875816></script>
+<br><a style="font-size:12" href="http://www.freeweblogger.com/" target="_top">free web counter</a>
+
+
+</body></html>

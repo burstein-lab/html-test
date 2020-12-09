@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN" "">
+<HTML style="direction: ltr;" lang="en"><HEAD><META http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+
+   <TITLE>Genome-Scale Identification of Legionella pneumophila Effectors using a Machine Learning Approach</TITLE><META name="author" content="David Dudu Burstein">
+
+   <STYLE title="DBsStylesheet" type="text/css">
+     p { margin: 1pt 1pt 2pt 1em;
+     }
+
+     a:link { text-decoration: none;
+   color: rgb(0, 0, 153);
+   }
+
+     a:visited { text-decoration: none;
+   color: rgb(0, 0, 153);
+   }
+
+     a:hover { text-decoration: none;
+    color: rgb(51, 51, 255);
+    }
+
+     .DBsBox { border: 1px inset rgb(51, 0, 0);
+   margin: 1%;
+   padding: 0.5%;
+   background-color: rgb(255, 255, 255);
+   text-align: left;
+   vertical-align: top;
+   }
+
+     .DBsTable { vertical-align: top;
+   }
+
+     .DBsOutlineTable { margin: 1px;
+   width: 100%;
+   }
+
+     .DBquotation { font-family: georgia,'palatino linotype','book antiqua',palatino,'times new roman',times,serif;
+   }
+
+     .DBsText {color: rgb(128, 0, 0);
+   line-height: 1.5em;
+   font-size: 1.2em;
+   margin: 1pt 0pt 2pt 1em;
+   }
+
+     .DBsPicture { border: 1px outset rgb(51, 0, 0);
+   margin-top: 4px;
+   }
+
+     .DBsHeading { margin: 0.5em 0pt 0.4em 5px;
+   font-family: Comic Sans MS;
+   font-weight: lighter;
+   font-size: 2em;
+   }
+</STYLE></HEAD>
+<BODY class="DBsText">
+
+   <br>Code for the manuscript:<br>
+   <center>
+   <H2 STYLE="color:rgb(0,0,0)">
+  Genome-Scale Identification of <i>Legionella pneumophila </i> <br>
+  Effectors using a Machine Learning Approach
+  </H2>
+  </center>
+  <br>
+  <p>
+  <h3 STYLE="margin-top:0px; margin-bottom:5px;">
+  Main archive file: <a href="codeDistribution.zip">codeDistribution.zip</a>
+  </h3>
+  <p>
+  This zip file contains the following:
+  <table><tbody class="DBsTable">
+	<tr>
+		<td style="width: 6.7em;">
+		<p><b>buildSets.sh</b></p>
+		</td>
+		<td>
+		<p>The base shell file, creates the csv file which is used as the input to the <a href="http://www.cs.waikato.ac.nz/ml/weka/">Weka software package</a>
+		</td>
+	</tr>
+	<tr>
+			<td>
+			<p><b>*.pl</b></p>
+			</td>
+			<td>
+			<p>Perl script file (required by the buildSets.sh)
+			</td>
+	</tr>
+	<tr>
+				<td>
+				<p><b>all.data.csv</b></p>
+				</td>
+				<td>
+				<p>Data collected for all <i> L. pneumophila</i> ORFs (that is not dependant on which ORF are effectors)
+				</td>
+	</tr>
+	<tr>
+				<td>
+				<p><b>*.blastp</b></p>
+				</td>
+				<td>
+				<p>Blast all against all of <i> L. pneumophila</i> ORFs
+				</td>
+	</tr>
+	<tr>
+				<td>
+				<p><b>*.lpg</b></p>
+				</td>
+				<td>
+				<p>Input examples for buildSets.sh: list of ORFs (lpg annotation)
+				</td>
+	</tr>
+	<tr>
+					<td>
+					<p><b>*.sample.csv</b></p>
+					</td>
+					<td>
+					<p>Output sample file
+					</td>
+	</tr>
+
+  </tbody></table>
+  </p>
+   <br><br>
+   <h3 STYLE="margin-top:0px; margin-bottom:5px;">
+   Auxiliary code archive file (33 Perl scripts; 5 packages): <a href="auxiliaryCode.zip">auxiliaryCode.zip</a>
+   </h3>
+   <p>
+   This archive file contain additional Perl scripts that were used to generate and collect the data.
+   These scripts are <i>not</i> requires to run the above given scripts, but were used in the progress of the research
+   (many of them were applied to generate all.data.csv file supplied above).
+   </p>
+   <br><br>
+   <p>
+   <u><b>Note:</b></u> This code was designed to work on Linux, in which BLAST is installed (can be installed from <a href="ftp://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/">here</a>).
+   <br>
+   In addition, in order to execute the Perl scripts, Perl should be installed on the machine running the scripts.
+   Information about downloading Perl can be found <a href="http://www.perl.org/get.html">here</a>.
+
+
+   </p>
+
+
+
+</BODY></HTML>
