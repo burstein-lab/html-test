@@ -3547,7 +3547,7 @@ input, select, textarea {
 			max-width: 95%;
 			padding: 6em;
 			position: relative;
-			text-align: center;
+			text-align: left;
 			vertical-align: middle;
 			z-index: 1;
 		}
